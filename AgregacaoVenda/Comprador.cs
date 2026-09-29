@@ -10,7 +10,7 @@ namespace AgregacaoVenda
         public double Verba { get; set; }
         public DiminuirVerba(double compra)
         {
-            Verba = verba - compra;
+            Verba = Verba - compra;
         }
     }
 }

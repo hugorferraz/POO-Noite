@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Produto\\ClasseProduto\\ClasseProduto.csproj": {}
+    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Produto\\ClasseProduto\\ClasseProduto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Produto\\ClasseProduto\\ClasseProduto.csproj": {
+    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Produto\\ClasseProduto\\ClasseProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Produto\\ClasseProduto\\ClasseProduto.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Produto\\ClasseProduto\\ClasseProduto.csproj",
         "projectName": "ClasseProduto",
-        "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Produto\\ClasseProduto\\ClasseProduto.csproj",
+        "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Produto\\ClasseProduto\\ClasseProduto.csproj",
         "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Produto\\ClasseProduto\\obj\\",
+        "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Produto\\ClasseProduto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

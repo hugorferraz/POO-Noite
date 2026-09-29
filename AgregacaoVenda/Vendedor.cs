@@ -9,12 +9,12 @@ namespace AgregacaoVenda
     {
         public double Comissao { get; set; }
 
-        public CalcularComissao(double preco){
-            Comissao = preco * (2 / 100);
+        public void CalcularComissao(double preco){
+            Comissao = Comissao + (preco * 0.02);
         }
 
-        public MostrarAtributos(){
-            Console.WriteLine("Comissão: " + Comissao);
+        public void MostrarAtributos(){
+            Console.WriteLine($"Comissão do Vendedor: {Comissao:c}");
         }
     }
 }

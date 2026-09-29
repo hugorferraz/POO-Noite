@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Produto\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Produto\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
       "projectName": "EncapsulamentoProduto",
-      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Produto\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Produto\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
       "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Produto\\EncapsulamentoProduto\\obj\\",
+      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Produto\\EncapsulamentoProduto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

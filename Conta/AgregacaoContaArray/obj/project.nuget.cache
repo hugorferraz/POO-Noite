@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xC0uUBlIyJk=",
+  "dgSpecHash": "PAyaqZyi458=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
+  "projectFilePath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugo.ferraz\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
     "C:\\Users\\hugo.ferraz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Downloads\\POO noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj": {}
+    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Downloads\\POO noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj": {
+    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
         "projectName": "AgregacaoContaArray",
-        "projectPath": "C:\\Users\\aluno\\Downloads\\POO noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Downloads\\POO noite\\AgregacaoContaArray\\obj\\",
+        "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
+        "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\AgregacaoContaArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

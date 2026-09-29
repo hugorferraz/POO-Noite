@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
       "projectName": "EncapsulamentoConta",
-      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
+      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
       "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\EncapsulamentoConta\\obj\\",
+      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\EncapsulamentoConta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\ArrayConta\\ArrayConta.csproj": {}
+    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\ArrayConta\\ArrayConta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\ArrayConta\\ArrayConta.csproj": {
+    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\ArrayConta\\ArrayConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\ArrayConta\\ArrayConta.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\ArrayConta\\ArrayConta.csproj",
         "projectName": "ArrayConta",
-        "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\ArrayConta\\ArrayConta.csproj",
+        "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\ArrayConta\\ArrayConta.csproj",
         "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\ArrayConta\\obj\\",
+        "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\ArrayConta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

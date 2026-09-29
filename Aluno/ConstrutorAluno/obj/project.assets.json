@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Aluno\\ConstrutorAluno\\ConstrutorAluno.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Aluno\\ConstrutorAluno\\ConstrutorAluno.csproj",
       "projectName": "ConstrutorAluno",
-      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Aluno\\ConstrutorAluno\\ConstrutorAluno.csproj",
+      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Aluno\\ConstrutorAluno\\ConstrutorAluno.csproj",
       "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Aluno\\ConstrutorAluno\\obj\\",
+      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Aluno\\ConstrutorAluno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

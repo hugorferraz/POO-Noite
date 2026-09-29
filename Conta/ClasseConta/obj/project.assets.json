@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\ClasseConta\\ClasseConta.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\ClasseConta\\ClasseConta.csproj",
       "projectName": "ClasseConta",
-      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\ClasseConta\\ClasseConta.csproj",
+      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\ClasseConta\\ClasseConta.csproj",
       "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\Conta\\ClasseConta\\obj\\",
+      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\Conta\\ClasseConta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"
