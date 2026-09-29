@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.exe
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.deps.json
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.runtimeconfig.json
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.dll
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.pdb
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.dll
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\refint\AgregacaoContaArray.dll
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.pdb
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO noite\AgregacaoContaArray\obj\Debug\net8.0\ref\AgregacaoContaArray.dll

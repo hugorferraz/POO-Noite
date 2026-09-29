@@ -1,0 +1,14 @@
+D:\262\POO\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.exe
+D:\262\POO\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.deps.json
+D:\262\POO\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.runtimeconfig.json
+D:\262\POO\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.dll
+D:\262\POO\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.pdb
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfoInputs.cache
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfo.cs
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.csproj.CoreCompileInputs.cache
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.dll
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\refint\ClasseProduto.dll
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.pdb
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.genruntimeconfig.cache
+D:\262\POO\POO noite\ClasseProduto\obj\Debug\net8.0\ref\ClasseProduto.dll
