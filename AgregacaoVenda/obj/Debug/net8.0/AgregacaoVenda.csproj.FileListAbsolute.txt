@@ -1,0 +1,15 @@
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.exe
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.deps.json
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.dll
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.pdb
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.sourcelink.json
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.dll
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\refint\AgregacaoVenda.dll
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.pdb
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\AgregacaoVenda\obj\Debug\net8.0\ref\AgregacaoVenda.dll
