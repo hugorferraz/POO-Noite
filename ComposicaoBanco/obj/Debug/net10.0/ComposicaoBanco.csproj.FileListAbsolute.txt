@@ -1,0 +1,15 @@
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\bin\Debug\net10.0\ComposicaoBanco.exe
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\bin\Debug\net10.0\ComposicaoBanco.deps.json
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\bin\Debug\net10.0\ComposicaoBanco.runtimeconfig.json
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\bin\Debug\net10.0\ComposicaoBanco.dll
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\bin\Debug\net10.0\ComposicaoBanco.pdb
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ComposicaoBanco.AssemblyInfo.cs
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ComposicaoBanco.sourcelink.json
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ComposicaoBanco.dll
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\refint\ComposicaoBanco.dll
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ComposicaoBanco.pdb
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ComposicaoBanco.genruntimeconfig.cache
+C:\Users\hugo.ferraz\Downloads\POO noite\POO-Noite\ComposicaoBanco\obj\Debug\net10.0\ref\ComposicaoBanco.dll

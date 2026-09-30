@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\ComposicaoBanco.csproj": {}
+    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\ComposicaoBanco.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\ComposicaoBanco.csproj": {
+    "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\ComposicaoBanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\ComposicaoBanco.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\ComposicaoBanco.csproj",
         "projectName": "ComposicaoBanco",
-        "projectPath": "c:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\ComposicaoBanco.csproj",
+        "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\ComposicaoBanco.csproj",
         "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\obj\\",
+        "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ComposicaoBanco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

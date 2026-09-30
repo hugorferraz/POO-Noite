@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComposicaoNotaFiscal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7fa402d0aead9316fdf125b3d520433a5fd005b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e799bf358b99165fda501816949d0185b9801acd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComposicaoNotaFiscal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComposicaoNotaFiscal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
