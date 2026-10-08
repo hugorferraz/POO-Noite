@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
       "projectName": "EncapsulamentoFuncionario",
-      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
+      "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
       "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoFuncionario\\obj\\",
+      "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
       "projectName": "EncapsulamentoEstudante",
-      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
+      "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
       "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoEstudante\\obj\\",
+      "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoEstudante\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

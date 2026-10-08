@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosAgregacao\\AgregacaoConta\\AgregacaoConta.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosAgregacao\\AgregacaoConta\\AgregacaoConta.csproj",
       "projectName": "AgregacaoConta",
-      "projectPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosAgregacao\\AgregacaoConta\\AgregacaoConta.csproj",
+      "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosAgregacao\\AgregacaoConta\\AgregacaoConta.csproj",
       "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.ferraz\\Downloads\\POO noite\\POO-Noite\\ConteudoP1\\ExerciciosAgregacao\\AgregacaoConta\\obj\\",
+      "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosAgregacao\\AgregacaoConta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"
