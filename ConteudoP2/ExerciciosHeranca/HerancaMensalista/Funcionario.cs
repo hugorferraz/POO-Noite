@@ -47,7 +47,7 @@ namespace ConteudoP2.ExerciciosHeranca.HerancaMensalista
         public virtual double CalcularSalario(double salario, int qtdeHorasTrabalhadas)
         {
             double salarioCalculado = (salario * qtdeHorasTrabalhadas) / 30.0;
-            Console.WriteLine($"Salário calculado: {salarioCalculado:c}");
+            Console.WriteLine($"[Funcionário] Salário calculado: {salarioCalculado:c}");
             return salarioCalculado;
         }
 
