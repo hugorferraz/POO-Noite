@@ -1,0 +1,15 @@
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\bin\Debug\net10.0\HerancaMensalista.exe
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\bin\Debug\net10.0\HerancaMensalista.deps.json
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\bin\Debug\net10.0\HerancaMensalista.runtimeconfig.json
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\bin\Debug\net10.0\HerancaMensalista.dll
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\bin\Debug\net10.0\HerancaMensalista.pdb
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\HerancaMensalista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\HerancaMensalista.AssemblyInfoInputs.cache
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\HerancaMensalista.AssemblyInfo.cs
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\HerancaMensalista.csproj.CoreCompileInputs.cache
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\HerancaMensalista.sourcelink.json
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\HerancaMensalista.dll
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\refint\HerancaMensalista.dll
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\HerancaMensalista.pdb
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\HerancaMensalista.genruntimeconfig.cache
+C:\Users\hugo.ferraz\Desktop\POO\POO-Noite\ConteudoP2\ExerciciosHeranca\HerancaMensalista\obj\Debug\net10.0\ref\HerancaMensalista.dll

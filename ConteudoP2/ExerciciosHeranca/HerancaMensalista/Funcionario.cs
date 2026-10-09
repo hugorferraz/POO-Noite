@@ -43,7 +43,7 @@ namespace HerancaMensalista
         }
 
         //Método virtual para permitir a redefinição (override) nas subclasses
-        public virtual double CalcularSalario(double salario, int qtdeHorasTrabalhadas)
+        public virtual double CalcularSalario()
         {
             double salarioCalculado = (salario * qtdeHorasTrabalhadas) / 30.0;
             Console.WriteLine($"[Funcionário] Salário calculado: {salarioCalculado:c}");

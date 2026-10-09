@@ -14,7 +14,7 @@ namespace HerancaMensalista
         }
 
         //Sobrescreve o método CalcularSalario da classe pai (polimorfismo)
-        public override double CalcularSalario(double salario, int qtdeHorasTrabalhadas)
+        public override double CalcularSalario()
         {
             double salarioCalculado = (salario * qtdeHorasTrabalhadas) / 30.0;
             Console.WriteLine($"[Mensalista] Salário calculado: {salarioCalculado:c}");

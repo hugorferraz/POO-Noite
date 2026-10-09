@@ -20,7 +20,7 @@ namespace HerancaMensalista
             this.qtdeHorasSemana = qtdeHorasSemana;
         }
 
-        public override double CalcularSalario(double salario, int qtdeHorasTrabalhadas)
+        public override double CalcularSalario()
         {
             double salarioCalculado = (salario * qtdeHorasSemana) / 4.5;
             Console.WriteLine($"[Horista] Salário calculado: {salarioCalculado:c}");
