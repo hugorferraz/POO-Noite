@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\HerancaMensalista.csproj": {}
+    "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\HerancaMensalista.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\HerancaMensalista.csproj": {
+    "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\HerancaMensalista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\HerancaMensalista.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\HerancaMensalista.csproj",
         "projectName": "HerancaMensalista",
-        "projectPath": "c:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\HerancaMensalista.csproj",
+        "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\HerancaMensalista.csproj",
         "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\obj\\",
+        "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaMensalista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"
