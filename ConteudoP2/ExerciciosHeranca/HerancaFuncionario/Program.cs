@@ -16,3 +16,11 @@ Console.WriteLine($"Bonificação gerente {g.CalcularBonificacao()}");
 
 d.Mostrar();
 Console.WriteLine($"Bonificação diretor {d.CalcularBonificacao()}");
+
+GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+
+// Chamando a sobrecarga correspondente para cada cargo
+gerenciador.TotalizadorBonificacao(s);
+gerenciador.TotalizadorBonificacao(g);
+gerenciador.TotalizadorBonificacao(d);
+Console.WriteLine("Total acumulado de bonificações: " + gerenciador.TotalBonificacao);
