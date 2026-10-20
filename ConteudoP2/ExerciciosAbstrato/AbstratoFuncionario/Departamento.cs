@@ -21,6 +21,7 @@ namespace AbstratoFuncionario
         }
 
         public void Listar(){
+            Console.WriteLine("\nDepto: " + Nome + ".............");
             foreach (var f in VetFuncionario){
                 f.Mostrar();
             }
@@ -44,6 +45,16 @@ namespace AbstratoFuncionario
                 folha = folha + f.CalcularSalario(diasUteis);
             }
             return folha;
+        }
+
+        public void MostrarQtdeDependentesFuncionario()
+        {
+            Console.WriteLine($"\n Quantidade de Dependentes por Funcionário ({Nome})");
+            foreach (var f in VetFuncionario)
+            {
+                // Chama o método CalcularTotalDependente() que existirá na classe Funcionario
+                Console.WriteLine($"Funcionário: {f.Nome} (Cód: {f.Codigo}) - Dependentes: {f.CalcularTotalDependente()}");
+            }
         }
     }
 }
