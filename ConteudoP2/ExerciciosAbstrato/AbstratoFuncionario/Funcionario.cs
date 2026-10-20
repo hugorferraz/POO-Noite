@@ -16,6 +16,7 @@ namespace AbstratoFuncionario
             Codigo = codigo;
             Nome = nome;
             Salario = salario;
+            VetDependentes = new List<Dependente>(); // Inicialização da lista
         }
 
         public virtual void Mostrar(){
@@ -31,7 +32,7 @@ namespace AbstratoFuncionario
 
         public int CalcularTotalDependente()
         {
-            VetDependentes.Count;
+            return VetDependentes.Count;
         }
 
         public void RemoverDependenteMaiorIdade(int codigo)

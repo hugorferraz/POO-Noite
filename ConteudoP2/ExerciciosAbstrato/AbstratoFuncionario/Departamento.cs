@@ -14,6 +14,7 @@ namespace AbstratoFuncionario
         public Departamento(int codigo, string? nome){
             Codigo = codigo;
             Nome = nome;
+            VetFuncionario = new List<Funcionario>();
         }
 
         public void Admitir(Funcionario f){
