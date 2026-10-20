@@ -13,7 +13,7 @@ namespace AbstratoFuncionario
 
         public Departamento(int codigo, string? nome){
             Codigo = codigo;
-            Nome = Nome;
+            Nome = nome;
         }
 
         public void Admitir(Funcionario f){

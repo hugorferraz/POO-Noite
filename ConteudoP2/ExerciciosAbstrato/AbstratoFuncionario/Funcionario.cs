@@ -22,5 +22,7 @@ namespace AbstratoFuncionario
         }
 
         public abstract double CalcularSalario(int diasUteis);
+
+        
     }
 }
