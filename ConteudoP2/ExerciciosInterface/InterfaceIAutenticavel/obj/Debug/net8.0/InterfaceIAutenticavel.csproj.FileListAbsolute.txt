@@ -1,0 +1,15 @@
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\bin\Debug\net8.0\InterfaceIAutenticavel.exe
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\bin\Debug\net8.0\InterfaceIAutenticavel.deps.json
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\bin\Debug\net8.0\InterfaceIAutenticavel.runtimeconfig.json
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\bin\Debug\net8.0\InterfaceIAutenticavel.dll
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\bin\Debug\net8.0\InterfaceIAutenticavel.pdb
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\InterfaceIAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\InterfaceIAutenticavel.AssemblyInfoInputs.cache
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\InterfaceIAutenticavel.AssemblyInfo.cs
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\InterfaceIAutenticavel.csproj.CoreCompileInputs.cache
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\InterfaceIAutenticavel.sourcelink.json
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\InterfaceIAutenticavel.dll
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\refint\InterfaceIAutenticavel.dll
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\InterfaceIAutenticavel.pdb
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\InterfaceIAutenticavel.genruntimeconfig.cache
+C:\Users\aluno\POO\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceIAutenticavel\obj\Debug\net8.0\ref\InterfaceIAutenticavel.dll
