@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\AbstratoFuncionario.csproj": {}
+    "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\AbstratoFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\AbstratoFuncionario.csproj": {
+    "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\AbstratoFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
         "projectName": "AbstratoFuncionario",
-        "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+        "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
         "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\obj\\",
+        "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

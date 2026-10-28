@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\HerancaFuncionario.csproj": {}
+    "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\HerancaFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\HerancaFuncionario.csproj": {
+    "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\HerancaFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\HerancaFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\HerancaFuncionario.csproj",
         "projectName": "HerancaFuncionario",
-        "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\HerancaFuncionario.csproj",
+        "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\HerancaFuncionario.csproj",
         "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\obj\\",
+        "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosHeranca\\HerancaFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"

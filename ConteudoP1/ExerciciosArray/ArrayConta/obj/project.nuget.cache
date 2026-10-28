@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ivCjsp5m7tA=",
+  "dgSpecHash": "XrRLGybt3V0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosArray\\ArrayConta\\ArrayConta.csproj",
+  "projectFilePath": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP1\\ExerciciosArray\\ArrayConta\\ArrayConta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugo.ferraz\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
     "C:\\Users\\hugo.ferraz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",

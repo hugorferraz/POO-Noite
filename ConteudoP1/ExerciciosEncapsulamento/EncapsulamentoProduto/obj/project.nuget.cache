@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cDCT+J3SC00=",
+  "dgSpecHash": "ZH/8k6gN30Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+  "projectFilePath": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP1\\ExerciciosEncapsulamento\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugo.ferraz\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
     "C:\\Users\\hugo.ferraz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",

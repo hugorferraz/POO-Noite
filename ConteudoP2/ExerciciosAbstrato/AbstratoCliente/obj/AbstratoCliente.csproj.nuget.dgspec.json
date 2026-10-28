@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ExerciciosAbstrato\\AbstratoCliente\\AbstratoCliente.csproj": {}
+    "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoCliente\\AbstratoCliente.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ExerciciosAbstrato\\AbstratoCliente\\AbstratoCliente.csproj": {
+    "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoCliente\\AbstratoCliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ExerciciosAbstrato\\AbstratoCliente\\AbstratoCliente.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoCliente\\AbstratoCliente.csproj",
         "projectName": "AbstratoCliente",
-        "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ExerciciosAbstrato\\AbstratoCliente\\AbstratoCliente.csproj",
+        "projectPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoCliente\\AbstratoCliente.csproj",
         "packagesPath": "C:\\Users\\hugo.ferraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO\\POO-Noite\\ExerciciosAbstrato\\AbstratoCliente\\obj\\",
+        "outputPath": "C:\\Users\\hugo.ferraz\\Desktop\\POO-Noite\\ConteudoP2\\ExerciciosAbstrato\\AbstratoCliente\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"
