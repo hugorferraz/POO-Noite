@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceITributavel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaa547f6afd22499e2c686efd293638d702a2929")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bb0bac74863c5d627f354b5b16372d55a2efb72")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfaceITributavel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfaceITributavel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
