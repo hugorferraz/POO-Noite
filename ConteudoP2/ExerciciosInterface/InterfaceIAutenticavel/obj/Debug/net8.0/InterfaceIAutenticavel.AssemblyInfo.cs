@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceIAutenticavel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bb0bac74863c5d627f354b5b16372d55a2efb72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03cae523994e4f721ba80e390633df0f2869b930")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfaceIAutenticavel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfaceIAutenticavel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
