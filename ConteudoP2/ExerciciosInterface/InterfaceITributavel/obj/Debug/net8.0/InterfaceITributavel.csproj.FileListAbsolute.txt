@@ -1,0 +1,15 @@
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\bin\Debug\net8.0\InterfaceITributavel.exe
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\bin\Debug\net8.0\InterfaceITributavel.deps.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\bin\Debug\net8.0\InterfaceITributavel.runtimeconfig.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\bin\Debug\net8.0\InterfaceITributavel.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\bin\Debug\net8.0\InterfaceITributavel.pdb
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\InterfaceITributavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\InterfaceITributavel.AssemblyInfoInputs.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\InterfaceITributavel.AssemblyInfo.cs
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\InterfaceITributavel.csproj.CoreCompileInputs.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\InterfaceITributavel.sourcelink.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\InterfaceITributavel.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\refint\InterfaceITributavel.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\InterfaceITributavel.pdb
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\InterfaceITributavel.genruntimeconfig.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExerciciosInterface\InterfaceITributavel\obj\Debug\net8.0\ref\InterfaceITributavel.dll
