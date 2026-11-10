@@ -1,0 +1,15 @@
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\bin\Debug\net10.0\ExercicioSRP.exe
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\bin\Debug\net10.0\ExercicioSRP.deps.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\bin\Debug\net10.0\ExercicioSRP.runtimeconfig.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\bin\Debug\net10.0\ExercicioSRP.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\bin\Debug\net10.0\ExercicioSRP.pdb
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ExercicioSRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ExercicioSRP.AssemblyInfoInputs.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ExercicioSRP.AssemblyInfo.cs
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ExercicioSRP.csproj.CoreCompileInputs.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ExercicioSRP.sourcelink.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ExercicioSRP.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\refint\ExercicioSRP.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ExercicioSRP.pdb
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ExercicioSRP.genruntimeconfig.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioSRP\obj\Debug\net10.0\ref\ExercicioSRP.dll
