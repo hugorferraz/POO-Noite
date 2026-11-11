@@ -1,0 +1,15 @@
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\bin\Debug\net10.0\ExercicioOCP.exe
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\bin\Debug\net10.0\ExercicioOCP.deps.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\bin\Debug\net10.0\ExercicioOCP.runtimeconfig.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\bin\Debug\net10.0\ExercicioOCP.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\bin\Debug\net10.0\ExercicioOCP.pdb
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ExercicioOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ExercicioOCP.AssemblyInfoInputs.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ExercicioOCP.AssemblyInfo.cs
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ExercicioOCP.csproj.CoreCompileInputs.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ExercicioOCP.sourcelink.json
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ExercicioOCP.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\refint\ExercicioOCP.dll
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ExercicioOCP.pdb
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ExercicioOCP.genruntimeconfig.cache
+C:\Users\hugo.ferraz\Desktop\POO-Noite\ConteudoP2\ExercicioOCP\obj\Debug\net10.0\ref\ExercicioOCP.dll
